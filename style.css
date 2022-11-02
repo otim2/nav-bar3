@@ -1,0 +1,14 @@
+ul{
+    background-color: aqua;
+}
+ul li{
+    color: blue;
+    list-style-type: none;
+    display: inline;
+    justify-content: space-around;
+    padding: 120px;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 30px;
+    
+}
